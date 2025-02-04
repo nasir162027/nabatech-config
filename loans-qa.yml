@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to NabaBank loans related QA APIs "
+  contactDetails:
+    name: "Nafi - QA Lead"
+    email: "nafi@nababank.com"
+  onCallSupport:
+    - (785) 545-6565
+    - (853) 546-3467
