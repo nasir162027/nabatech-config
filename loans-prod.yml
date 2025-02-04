@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Hey, welcome to NabaBank loans related prod APIs "
+  contactDetails:
+    name: "Naba - Product Owner"
+    email: "nasir@nababank.com"
+  onCallSupport:
+    - (723) 656-8709
+    - (156) 342-0956
